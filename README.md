@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 About Me:<br>Full-stack developer specializing in secure, scalable web and mobile solutions. I architect robust systems using modern stacks like FastAPI + Android Jetpack Compose + MongoDB with a focus on:<br><br>🛡️ Building security-first applications<br>🚀 Delivering optimized solutions<br>🐧 Linux enthusiast (Daily-driving Arch with custom Hyprland setups) (I use Arch btw)<br>🗄️ Running managed home lab server (Cloudflare, Docker, Nginx running on Arch)<br>Notable Projects:<br>✔️ Secure E2E-encrypted chat app<br>✔️ Project management platform<br>✔️ Real-time collaborative tools
+👨‍💻 About Me:
 
 
 ## 🌐 Socials:
